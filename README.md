@@ -33,7 +33,7 @@
 
 📂 **Projects**
 Check out some of my repositories:
-- 🧾 [Visionary Text Converter: Text Recognition Using OpenCV](https://github.com/yourusername/text-recognition-opencv)
+- 🧾 [Visionary Text Converter: Text Recognition Using OpenCV](https://github.com/samruddhi-2308/visionarytextconverter)
 - 🌐 [Photopedia- A basic Photography Website](https://github.com/yourusername/portfolio-website)
 - 💻 [Personal Portfolio Website](https://github.com/yourusername/java-dsa-practice)  Coming Soon!!
 
